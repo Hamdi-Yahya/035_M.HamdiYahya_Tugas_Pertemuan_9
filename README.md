@@ -38,7 +38,7 @@
 
 # Screenshot Hasil Route
 
-> Semua screenshot disimpan di folder `images/`
+> Semua screenshot disimpan di folder `image/`
 
 ## 1. Route `/anggota`
 Menampilkan daftar anggota perpustakaan dalam bentuk tabel Bootstrap.
